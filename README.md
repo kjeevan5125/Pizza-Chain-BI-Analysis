@@ -109,20 +109,22 @@ This structure allows transactional order data to be combined with product infor
 Pizza-Chain-BI-Analysis/
 │
 ├── Dataset/
-│   └── Dataset files
+│   ├── order_details.csv
+│   ├── orders.csv
+│   ├── pizza_types.csv
+│   └── pizzas.csv
 │
 ├── SQL Commands/
 │   ├── 1_Creating Table.sql
+│   ├── All Q combined.sql
 │   ├── Q1.sql
 │   ├── Q2.sql
 │   ├── Q3.sql
 │   ├── ...
-│   ├── Q13.sql
-│   └── All Q combined.sql
+│   └── Q13.sql
 │
 ├── Questions.txt
 └── README.md
-```
 
 ## How to Run
 
